@@ -1,5 +1,5 @@
 ## Python Data Analysis Project
-# Name: Movie correlation Project
+# Name: Movie Correlation Project
 # About Dataset:
 Context
 Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset
@@ -39,3 +39,7 @@ Content
 - writer: writer of the movie
 
 - year: year of release
+
+# I used this dataset to find correlation between columns.
+
+
